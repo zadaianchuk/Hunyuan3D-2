@@ -29,10 +29,10 @@
 > 🔥🔥🔥 **New**: 
 > 
 > Release 🤗 [Hunyuan3D-2-Turbo](https://huggingface.co/tencent/Hunyuan3D-2/tree/main/hunyuan3d-dit-v2-0-turbo) and
-> 🤗[Hunyuan3D-2mini-Turbo](https://huggingface.co/tencent/Hunyuan3D-2mini/tree/main/hunyuan3d-dit-v2-mini-turbo).
+> 🤗 [Hunyuan3D-2mini-Turbo](https://huggingface.co/tencent/Hunyuan3D-2mini/tree/main/hunyuan3d-dit-v2-mini-turbo) and [FlashVDM](https://github.com/Tencent/FlashVDM).
 > 
 > Release 🤗 [Hunyuan3D-2mv](https://huggingface.co/tencent/Hunyuan3D-2mv) and
-> 🤗[Hunyuan3D-2mini](https://huggingface.co/tencent/Hunyuan3D-2mini).
+> 🤗 [Hunyuan3D-2mini](https://huggingface.co/tencent/Hunyuan3D-2mini).
 
 > Join our **[Wechat](#)** and **[Discord](https://discord.gg/dNBrdrGGMa)** group to discuss and find help from us.
 
